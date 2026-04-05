@@ -83,3 +83,4 @@ ASL for beginners
 
 </body>
 </html>
+https://evelyngomesca-lgtm.github.io/egsamplegames/PRIVACY_POLICY.md
